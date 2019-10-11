@@ -11,13 +11,16 @@ public class DoubLinkedListsDriver
         list.addANodeToTail(5);
         list.addANodeToTail(6);
 
+        list.addANodeToStart(0);
+        list.addANodeToStart(-1);
 
+        System.out.println("Original List");
         list.showList();
         list.deleteANodeFromEnd();
-        System.out.println("Delete from end");
+        System.out.println("Delete from end(Tail)");
         list.showList();
-        System.out.println("Reverse order");
         list.showRList();
+        System.out.println("Reverse order");
 
 
     }//end of Main method
