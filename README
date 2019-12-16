@@ -1,0 +1,15 @@
+DoubleLinkedLists
+ADvanced Java Topics
+10/14/19
+Extra practice with Double Linked Lists
+
+Your project must be able to:
+Add to the tail
+Remove from the tail
+Iterate backwards.
+
+In the driver, make sure you call these methods to demonstrate. For example, show the list in head->tail order and in tail->order. Show the list before adding, after adding, before removing, after removing.
+
+Push your code to GitHub. In a doc include the URL to your repo and a snapshot (or more) of the output.
+
+I learned that In retrospect I know very little about how deeply rooted stuff like Array List realy are
